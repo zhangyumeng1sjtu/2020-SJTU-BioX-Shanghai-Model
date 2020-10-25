@@ -1,0 +1,1924 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d0" for="node" attr.name="pro" attr.type="string"/>
+<graph edgedefault="directed"><node id="AAA">
+  <data key="d0">Lys</data>
+</node>
+<node id="AAU">
+  <data key="d0">Asn</data>
+</node>
+<node id="AAG">
+  <data key="d0">Lys</data>
+</node>
+<node id="AAC">
+  <data key="d0">Asn</data>
+</node>
+<node id="AUA">
+  <data key="d0">Ile</data>
+</node>
+<node id="AUU">
+  <data key="d0">Ile</data>
+</node>
+<node id="AUG">
+  <data key="d0">Met</data>
+</node>
+<node id="AUC">
+  <data key="d0">Ile</data>
+</node>
+<node id="AGA">
+  <data key="d0">Arg</data>
+</node>
+<node id="AGU">
+  <data key="d0">Ser</data>
+</node>
+<node id="AGG">
+  <data key="d0">Arg</data>
+</node>
+<node id="AGC">
+  <data key="d0">Ser</data>
+</node>
+<node id="ACA">
+  <data key="d0">Thr</data>
+</node>
+<node id="ACU">
+  <data key="d0">Thr</data>
+</node>
+<node id="ACG">
+  <data key="d0">Thr</data>
+</node>
+<node id="ACC">
+  <data key="d0">Thr</data>
+</node>
+<node id="UAA">
+  <data key="d0">Stop</data>
+</node>
+<node id="UAU">
+  <data key="d0">Tyr</data>
+</node>
+<node id="UAG">
+  <data key="d0">Stop</data>
+</node>
+<node id="UAC">
+  <data key="d0">Tyr</data>
+</node>
+<node id="UUA">
+  <data key="d0">Leu</data>
+</node>
+<node id="UUU">
+  <data key="d0">Phe</data>
+</node>
+<node id="UUG">
+  <data key="d0">Leu</data>
+</node>
+<node id="UUC">
+  <data key="d0">Phe</data>
+</node>
+<node id="UGA">
+  <data key="d0">Stop</data>
+</node>
+<node id="UGU">
+  <data key="d0">Cys</data>
+</node>
+<node id="UGG">
+  <data key="d0">Trp</data>
+</node>
+<node id="UGC">
+  <data key="d0">Cys</data>
+</node>
+<node id="UCA">
+  <data key="d0">Ser</data>
+</node>
+<node id="UCU">
+  <data key="d0">Ser</data>
+</node>
+<node id="UCG">
+  <data key="d0">Ser</data>
+</node>
+<node id="UCC">
+  <data key="d0">Ser</data>
+</node>
+<node id="GAA">
+  <data key="d0">Glu</data>
+</node>
+<node id="GAU">
+  <data key="d0">Asp</data>
+</node>
+<node id="GAG">
+  <data key="d0">Glu</data>
+</node>
+<node id="GAC">
+  <data key="d0">Asp</data>
+</node>
+<node id="GUA">
+  <data key="d0">Val</data>
+</node>
+<node id="GUU">
+  <data key="d0">Val</data>
+</node>
+<node id="GUG">
+  <data key="d0">Val</data>
+</node>
+<node id="GUC">
+  <data key="d0">Val</data>
+</node>
+<node id="GGA">
+  <data key="d0">Gly</data>
+</node>
+<node id="GGU">
+  <data key="d0">Gly</data>
+</node>
+<node id="GGG">
+  <data key="d0">Gly</data>
+</node>
+<node id="GGC">
+  <data key="d0">Gly</data>
+</node>
+<node id="GCA">
+  <data key="d0">Ala</data>
+</node>
+<node id="GCU">
+  <data key="d0">Ala</data>
+</node>
+<node id="GCG">
+  <data key="d0">Ala</data>
+</node>
+<node id="GCC">
+  <data key="d0">Ala</data>
+</node>
+<node id="CAA">
+  <data key="d0">Gln</data>
+</node>
+<node id="CAU">
+  <data key="d0">His</data>
+</node>
+<node id="CAG">
+  <data key="d0">Gln</data>
+</node>
+<node id="CAC">
+  <data key="d0">His</data>
+</node>
+<node id="CUA">
+  <data key="d0">Leu</data>
+</node>
+<node id="CUU">
+  <data key="d0">Leu</data>
+</node>
+<node id="CUG">
+  <data key="d0">Leu</data>
+</node>
+<node id="CUC">
+  <data key="d0">Leu</data>
+</node>
+<node id="CGA">
+  <data key="d0">Arg</data>
+</node>
+<node id="CGU">
+  <data key="d0">Arg</data>
+</node>
+<node id="CGG">
+  <data key="d0">Arg</data>
+</node>
+<node id="CGC">
+  <data key="d0">Arg</data>
+</node>
+<node id="CCA">
+  <data key="d0">Pro</data>
+</node>
+<node id="CCU">
+  <data key="d0">Pro</data>
+</node>
+<node id="CCG">
+  <data key="d0">Pro</data>
+</node>
+<node id="CCC">
+  <data key="d0">Pro</data>
+</node>
+<edge source="AAA" target="AAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAA" target="AAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAA" target="AAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAA" target="AUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAA" target="AGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAA" target="ACA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAA" target="UAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAA" target="GAA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAA" target="CAA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAU" target="AAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAU" target="AAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAU" target="AAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAU" target="AUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAU" target="AGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAU" target="ACU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAU" target="UAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAU" target="GAU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAU" target="CAU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAG" target="AAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AAG" target="AAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AAG" target="AAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AAG" target="AUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAG" target="AGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAG" target="ACG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAG" target="UAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAG" target="GAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAG" target="CAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAC" target="AAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AAC" target="AAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AAC" target="AAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AAC" target="AUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAC" target="AGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAC" target="ACC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AAC" target="UAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AAC" target="GAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AAC" target="CAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUA" target="AAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUA" target="AUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUA" target="AUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUA" target="AUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUA" target="AGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUA" target="ACA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUA" target="UUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUA" target="GUA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUA" target="CUA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUU" target="AAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUU" target="AUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUU" target="AUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUU" target="AUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUU" target="AGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUU" target="ACU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUU" target="UUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUU" target="GUU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUU" target="CUU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUG" target="AAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUG" target="AUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AUG" target="AUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AUG" target="AUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AUG" target="AGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUG" target="ACG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUG" target="UUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUG" target="GUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUG" target="CUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUC" target="AAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUC" target="AUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AUC" target="AUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AUC" target="AUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AUC" target="AGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AUC" target="ACC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUC" target="UUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AUC" target="GUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AUC" target="CUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGA" target="AAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGA" target="AUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGA" target="AGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGA" target="AGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGA" target="AGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGA" target="ACA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGA" target="UGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGA" target="GGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGA" target="CGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGU" target="AAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGU" target="AUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGU" target="AGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGU" target="AGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGU" target="AGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGU" target="ACU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGU" target="UGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGU" target="GGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGU" target="CGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGG" target="AAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGG" target="AUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGG" target="AGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGG" target="AGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGG" target="AGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGG" target="ACG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGG" target="UGG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGG" target="GGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGG" target="CGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="AGC" target="AAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGC" target="AUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGC" target="AGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="AGC" target="AGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="AGC" target="AGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGC" target="ACC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="AGC" target="UGC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="AGC" target="GGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="AGC" target="CGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACA" target="AAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACA" target="AUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACA" target="AGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACA" target="ACU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACA" target="ACG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACA" target="ACC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACA" target="UCA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACA" target="GCA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACA" target="CCA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACU" target="AAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACU" target="AUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACU" target="AGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACU" target="ACA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACU" target="ACG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACU" target="ACC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACU" target="UCU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACU" target="GCU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACU" target="CCU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACG" target="AAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACG" target="AUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACG" target="AGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACG" target="ACA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACG" target="ACU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACG" target="ACC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACG" target="UCG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACG" target="GCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACG" target="CCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="ACC" target="AAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACC" target="AUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACC" target="AGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACC" target="ACA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="ACC" target="ACU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="ACC" target="ACG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="ACC" target="UCC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="ACC" target="GCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="ACC" target="CCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAA" target="AAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAA" target="UAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAA" target="UAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAA" target="UAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAA" target="UUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAA" target="UGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAA" target="UCA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAA" target="GAA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAA" target="CAA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAU" target="AAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAU" target="UAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAU" target="UAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAU" target="UAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAU" target="UUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAU" target="UGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAU" target="UCU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAU" target="GAU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAU" target="CAU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAG" target="AAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAG" target="UAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UAG" target="UAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UAG" target="UAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UAG" target="UUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAG" target="UGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAG" target="UCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAG" target="GAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAG" target="CAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAC" target="AAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAC" target="UAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UAC" target="UAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UAC" target="UAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UAC" target="UUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UAC" target="UGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UAC" target="UCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAC" target="GAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UAC" target="CAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUA" target="AUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUA" target="UAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUA" target="UUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUA" target="UUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUA" target="UUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUA" target="UGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUA" target="UCA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUA" target="GUA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUA" target="CUA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUU" target="AUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUU" target="UAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUU" target="UUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUU" target="UUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUU" target="UUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUU" target="UGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUU" target="UCU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUU" target="GUU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUU" target="CUU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUG" target="AUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUG" target="UAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUG" target="UUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UUG" target="UUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UUG" target="UUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UUG" target="UGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUG" target="UCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUG" target="GUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUG" target="CUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUC" target="AUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUC" target="UAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UUC" target="UUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UUC" target="UUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UUC" target="UUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UUC" target="UGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUC" target="UCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UUC" target="GUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UUC" target="CUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGA" target="AGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGA" target="UAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGA" target="UUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGA" target="UGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGA" target="UGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGA" target="UGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGA" target="UCA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGA" target="GGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGA" target="CGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGU" target="AGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGU" target="UAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGU" target="UUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGU" target="UGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGU" target="UGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGU" target="UGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGU" target="UCU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGU" target="GGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGU" target="CGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGG" target="AGG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGG" target="UAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGG" target="UUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGG" target="UGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGG" target="UGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGG" target="UGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGG" target="UCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGG" target="GGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGG" target="CGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UGC" target="AGC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UGC" target="UAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGC" target="UUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGC" target="UGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UGC" target="UGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UGC" target="UGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGC" target="UCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UGC" target="GGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UGC" target="CGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCA" target="ACA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCA" target="UAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCA" target="UUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCA" target="UGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCA" target="UCU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCA" target="UCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCA" target="UCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCA" target="GCA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCA" target="CCA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCU" target="ACU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCU" target="UAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCU" target="UUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCU" target="UGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCU" target="UCA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCU" target="UCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCU" target="UCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCU" target="GCU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCU" target="CCU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCG" target="ACG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCG" target="UAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCG" target="UUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCG" target="UGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCG" target="UCA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCG" target="UCU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCG" target="UCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCG" target="GCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCG" target="CCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="UCC" target="ACC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="UCC" target="UAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCC" target="UUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCC" target="UGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCC" target="UCA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="UCC" target="UCU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="UCC" target="UCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="UCC" target="GCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="UCC" target="CCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAA" target="AAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAA" target="UAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAA" target="GAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAA" target="GAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAA" target="GAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAA" target="GUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAA" target="GGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAA" target="GCA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAA" target="CAA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GAU" target="AAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAU" target="UAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAU" target="GAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAU" target="GAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAU" target="GAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAU" target="GUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAU" target="GGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAU" target="GCU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAU" target="CAU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GAG" target="AAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAG" target="UAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAG" target="GAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAG" target="GAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAG" target="GAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GAG" target="GUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAG" target="GGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAG" target="GCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAG" target="CAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GAC" target="AAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAC" target="UAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAC" target="GAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GAC" target="GAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GAC" target="GAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GAC" target="GUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GAC" target="GGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GAC" target="GCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GAC" target="CAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUA" target="AUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUA" target="UUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUA" target="GAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUA" target="GUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUA" target="GUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUA" target="GUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUA" target="GGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUA" target="GCA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUA" target="CUA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUU" target="AUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUU" target="UUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUU" target="GAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUU" target="GUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUU" target="GUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUU" target="GUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUU" target="GGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUU" target="GCU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUU" target="CUU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUG" target="AUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUG" target="UUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUG" target="GAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUG" target="GUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUG" target="GUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUG" target="GUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUG" target="GGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUG" target="GCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUG" target="CUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUC" target="AUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUC" target="UUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUC" target="GAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GUC" target="GUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GUC" target="GUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GUC" target="GUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GUC" target="GGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GUC" target="GCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GUC" target="CUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGA" target="AGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGA" target="UGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGA" target="GAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGA" target="GUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGA" target="GGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GGA" target="GGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GGA" target="GGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GGA" target="GCA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGA" target="CGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGU" target="AGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGU" target="UGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGU" target="GAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGU" target="GUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGU" target="GGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GGU" target="GGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GGU" target="GGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GGU" target="GCU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGU" target="CGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGG" target="AGG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGG" target="UGG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGG" target="GAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGG" target="GUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGG" target="GGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGG" target="GGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGG" target="GGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGG" target="GCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGG" target="CGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGC" target="AGC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGC" target="UGC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGC" target="GAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGC" target="GUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGC" target="GGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GGC" target="GGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GGC" target="GGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGC" target="GCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GGC" target="CGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCA" target="ACA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCA" target="UCA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCA" target="GAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCA" target="GUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCA" target="GGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCA" target="GCU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GCA" target="GCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GCA" target="GCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GCA" target="CCA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCU" target="ACU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCU" target="UCU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCU" target="GAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCU" target="GUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCU" target="GGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCU" target="GCA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="GCU" target="GCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="GCU" target="GCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="GCU" target="CCU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCG" target="ACG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCG" target="UCG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCG" target="GAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCG" target="GUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCG" target="GGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCG" target="GCA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCG" target="GCU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCG" target="GCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCG" target="CCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCC" target="ACC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCC" target="UCC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCC" target="GAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCC" target="GUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCC" target="GGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCC" target="GCA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="GCC" target="GCU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="GCC" target="GCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="GCC" target="CCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAA" target="AAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAA" target="UAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAA" target="GAA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAA" target="CAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAA" target="CAG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAA" target="CAC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CAA" target="CUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAA" target="CGA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAA" target="CCA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CAU" target="AAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAU" target="UAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAU" target="GAU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAU" target="CAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAU" target="CAG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CAU" target="CAC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAU" target="CUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAU" target="CGU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAU" target="CCU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CAG" target="AAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAG" target="UAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAG" target="GAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAG" target="CAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAG" target="CAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAG" target="CAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAG" target="CUG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAG" target="CGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAG" target="CCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CAC" target="AAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAC" target="UAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAC" target="GAC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAC" target="CAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CAC" target="CAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CAC" target="CAG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CAC" target="CUC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CAC" target="CGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CAC" target="CCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUA" target="AUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUA" target="UUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUA" target="GUA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUA" target="CAA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUA" target="CUU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUA" target="CUG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CUA" target="CUC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUA" target="CGA">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUA" target="CCA">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CUU" target="AUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUU" target="UUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUU" target="GUU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUU" target="CAU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUU" target="CUA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUU" target="CUG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUU" target="CUC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CUU" target="CGU">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUU" target="CCU">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CUG" target="AUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUG" target="UUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUG" target="GUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUG" target="CAG">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUG" target="CUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUG" target="CUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUG" target="CUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUG" target="CGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUG" target="CCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CUC" target="AUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUC" target="UUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUC" target="GUC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUC" target="CAC">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CUC" target="CUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CUC" target="CUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CUC" target="CUG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CUC" target="CGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CUC" target="CCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CGA" target="AGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGA" target="UGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGA" target="GGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGA" target="CAA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGA" target="CUA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGA" target="CGU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CGA" target="CGG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CGA" target="CGC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CGA" target="CCA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGU" target="AGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGU" target="UGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGU" target="GGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGU" target="CAU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGU" target="CUU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGU" target="CGA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CGU" target="CGG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CGU" target="CGC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CGU" target="CCU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGG" target="AGG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGG" target="UGG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGG" target="GGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGG" target="CAG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGG" target="CUG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGG" target="CGA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGG" target="CGU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGG" target="CGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGG" target="CCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGC" target="AGC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGC" target="UGC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGC" target="GGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGC" target="CAC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGC" target="CUC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGC" target="CGA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CGC" target="CGU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CGC" target="CGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CGC" target="CCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCA" target="ACA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCA" target="UCA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCA" target="GCA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCA" target="CAA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCA" target="CUA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCA" target="CGA">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCA" target="CCU">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CCA" target="CCG">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CCA" target="CCC">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CCU" target="ACU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCU" target="UCU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCU" target="GCU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCU" target="CAU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCU" target="CUU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCU" target="CGU">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCU" target="CCA">
+  <data key="d1">0.285</data>
+</edge>
+<edge source="CCU" target="CCG">
+  <data key="d1">0.047</data>
+</edge>
+<edge source="CCU" target="CCC">
+  <data key="d1">0.175</data>
+</edge>
+<edge source="CCG" target="ACG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCG" target="UCG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCG" target="GCG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCG" target="CAG">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCG" target="CUG">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCG" target="CGG">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCG" target="CCA">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCG" target="CCU">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCG" target="CCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCC" target="ACC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCC" target="UCC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCC" target="GCC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCC" target="CAC">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCC" target="CUC">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCC" target="CGC">
+  <data key="d1">0.041</data>
+</edge>
+<edge source="CCC" target="CCA">
+  <data key="d1">0.141</data>
+</edge>
+<edge source="CCC" target="CCU">
+  <data key="d1">0.255</data>
+</edge>
+<edge source="CCC" target="CCG">
+  <data key="d1">0.041</data>
+</edge>
+</graph></graphml>
